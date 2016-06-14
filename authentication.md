@@ -1,4 +1,4 @@
-![](http://photos4.meetupstatic.com/photos/event/2/1/9/a/global_450128602.jpeg)
+![](https://i.imgur.com/SFGB5e5.png)
 # Set-up authentication with devise & omniauth
 
 Open the docs for quick reference : 
